@@ -1,0 +1,6 @@
+to install the necessary modules, in terminal type:
+npm i express mongodb mongoose
+npm i -D nodemon
+
+to start the express server, in terminal:
+npm run dev
